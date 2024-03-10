@@ -1,5 +1,5 @@
-Miscelanous desgins/mods for the Razor kid bikes
+Designs/mods for Razor kid bikes
 ![](media/side.jpg)
 ![](media/tension.jpg)
 <br>
-The swing arm is ~5.5" for 15mm axle but variations will be update by 3/20/24. Step file is in the cad folder. The 4.8mm mild steel is ~$70 for 2 from sendcutsend.
+The pictured extension is ~5.5" for 15mm axle but there is a 3.5" 12mm dxf in the cad folder. Step file is in the cad folder. These are designed for the .187" (4.8mm) mild steel is ~$70 for 2 from sendcutsend.
