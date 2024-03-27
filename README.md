@@ -8,7 +8,7 @@ The pictured extension is ~5.5" for 15mm axle but there is a 3.5" 12mm dxf in th
 ![](media/brakeB.jpg)
 ![](media/brakeC.jpg)
 <br>
-This is a 2 piece brake adapter for pitbike brakes + 190mm rotor. 2 complete sets are ~$30 from sendcutsend. You will also need 5x 8mm hex bolt ~10mm in length to assemble.
+This is a 2 piece brake adapter for pitbike brakes + 190mm rotor. 2 complete sets are ~$30 from sendcutsend. Have to get the 3x 7mm holes on bracket A tapped to M8. You will also need 5x 8mm hex bolt ~10mm in length to assemble.
 <br>
 <a href="https://www.amazon.com/dp/B0BG6VCX59" title="rotor">Compatable rotor</a> 
 <br>
